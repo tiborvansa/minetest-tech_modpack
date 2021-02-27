@@ -1,0 +1,6 @@
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic.git
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://gitlab.com/VanessaE/pipeworks.git
