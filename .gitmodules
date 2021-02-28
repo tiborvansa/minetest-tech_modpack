@@ -4,3 +4,6 @@
 [submodule "pipeworks"]
 	path = pipeworks
 	url = https://gitlab.com/VanessaE/pipeworks.git
+[submodule "techage_modepack"]
+	path = techage_modepack
+	url = https://github.com/joe7575/techage_modepack.git
